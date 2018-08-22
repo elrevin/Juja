@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "106497844892",
+    "firebase_url": "https://juja-elrevin-me.firebaseio.com",
+    "project_id": "juja-elrevin-me",
+    "storage_bucket": "juja-elrevin-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106497844892:android:9a97e7f68c8e4a4e",
+        "android_client_info": {
+          "package_name": "me.elrevin.juja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106497844892-0gg70peaovp1ilnes9jcjkt8354npo42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.elrevin.juja",
+            "certificate_hash": "7fb36ab595842fba76cfe68fed83f172b94599ce"
+          }
+        },
+        {
+          "client_id": "106497844892-8nhq2s5kbn2gsh4c0m16jr6i4at9uiq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVqfxqpF95X55BG0m8s6T7_XXtEMyVhdY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106497844892-8nhq2s5kbn2gsh4c0m16jr6i4at9uiq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
